@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufginanjar&label=Profile%20views&color=0e75b6&style=flat" alt="yusufginanjar" /> </p>
 
-- 🔭 I’m currently working on [Brofesional](https://brofesional.id/)
+- 🔭 I’m currently working on RUN System
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **next.js**
 
 - 📫 How to reach me **yusufginanjarpk@gmail.com**
 
